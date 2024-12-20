@@ -79,6 +79,9 @@ A customer buys an iPhone. Using insights from this workflow:
 #### Objective:
 Identify customers who purchased **only iPhones** and **AirPods**, with no additional products.
 
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/e4ded545-4b23-4149-adf5-1a052fba635a" />
+
+
 #### **Business Context and Applications**
 1. **Identifying Core Customer Segments**:
    - Highlight loyal customers who consistently buy iPhones and AirPods but no other products.
