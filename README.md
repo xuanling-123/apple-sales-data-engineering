@@ -33,6 +33,8 @@ Key objectives include:
 #### Objective:
 Identify customers who purchased **AirPods** immediately after buying an **iPhone**, highlighting sequential purchasing behavior.
 
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/a074871b-6ce8-4865-9ff3-54d38c39f055" />
+
 #### **Business Context and Applications**
 1. **Cross-Selling Opportunities**:
    - Recognize customers likely to buy accessories (like AirPods) after purchasing a primary device (iPhone).
@@ -80,7 +82,6 @@ A customer buys an iPhone. Using insights from this workflow:
 Identify customers who purchased **only iPhones** and **AirPods**, with no additional products.
 
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/e4ded545-4b23-4149-adf5-1a052fba635a" />
-
 
 #### **Business Context and Applications**
 1. **Identifying Core Customer Segments**:
@@ -174,4 +175,12 @@ The WorkFlowRunner orchestrates the ETL process by integrating the Extractor, Tr
 ## Conclusion
 This project demonstrates the power of data engineering to transform raw data into actionable business insights. By leveraging these workflows, businesses can drive increased sales, optimize marketing efforts, and deepen customer relationships.
 
+---
 
+## Acknowledgments
+This project was inspired by techniques and insights shared in the YouTube video:  
+[**Apache Spark End-to-End Data Engineering Project**](https://www.youtube.com/watch?v=BlWS4foN9cY&t=724s)
+
+Special thanks to the creator for providing valuable guidance and concepts that helped shape this project.
+
+---
